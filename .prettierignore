@@ -1,0 +1,8 @@
+dist
+.husky
+coverage
+*.yml
+build
+e2e
+node_modules
+.vscode/*
